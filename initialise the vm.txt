@@ -1,0 +1,5 @@
+gcloud init
+gsutil ls gs://backupfileprojectfontys
+gsutil cp gs://backupfileprojectfontys/* C:\Users\tijmenvanderlinden01\Downloads
+
+my-project-52977-tryout
